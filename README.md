@@ -1,0 +1,2 @@
+# syn-dashboard
+Synerzip Dashboard
